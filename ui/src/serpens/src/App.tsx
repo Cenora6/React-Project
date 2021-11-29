@@ -134,8 +134,6 @@ function App() {
     setYear(Number(e.target.value))
   }
 
-
-
   return (
     <div className="App">
       <div>
